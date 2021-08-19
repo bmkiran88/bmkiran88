@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Manju Kiran
+- 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence
+- 🌱 I’m currently learning Python, Data Science.
+- 💞️ I’m looking to collaborate on all the above related projects
+- 📫 You can reach me at bmkiran88@gmail.com
